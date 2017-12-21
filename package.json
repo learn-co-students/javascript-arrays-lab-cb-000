@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/java-script-arrays-lab.git"
   },
-  "keywords": [
-    "javascript",
-    "flatiron",
-    "learn"
-  ],
+  "keywords": ["javascript", "flatiron", "learn"],
   "author": "pletcher",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
